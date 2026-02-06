@@ -6,6 +6,7 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/natanael-zamfir/threat-hunt-lab-tor-browser)**
 
 ## ⚠️ Vulnerability Management Projects
 
