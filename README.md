@@ -9,6 +9,6 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/natanael-zamfir/threat-hunt-lab-tor-browser)**
 
 ## ⚠️ Vulnerability Management Projects
-
+- **[STIG Implementations - Windows 11 v2r5](http://github.com/natanael-zamfir/stigs-windows-11-implementation)**
 
 <hr/>
