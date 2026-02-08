@@ -10,7 +10,7 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[🖥️ Enterprise Vulnerability Management Program (End-to-End Lab) 🔍](https://github.com/natanael-zamfir/enterprise-vulnerability-management-program-end-to-end-lab/tree/main)**
+- **[🖥️ Enterprise Vulnerability Management Program (End-to-End Lab)](https://github.com/natanael-zamfir/enterprise-vulnerability-management-program-end-to-end-lab/tree/main)**
 - **[STIG Implementations: Windows 11 v2r5 + MITRE ATT&CK Mapping](http://github.com/natanael-zamfir/stigs-windows-11-implementation)**
 
 ---
