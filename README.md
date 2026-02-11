@@ -4,7 +4,7 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 
 <h3 align="center"> 👋🛡️Aspiring Cyber Security Engineer & Vulnerability Management 💻🔐</h3>
 
-## 🚨 Threat Hunting and Security Operations
+## 🕵️ Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario: Tor Browser Usage Detection](https://github.com/natanael-zamfir/threat-hunt-lab-tor-browser)**
 
