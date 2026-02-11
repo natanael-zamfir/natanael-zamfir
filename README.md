@@ -2,15 +2,15 @@
 
 I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping attacks, fighting cybercrime, and protecting digital identities. Through hands-on projects in threat detection, incident investigation, and security monitoring, I’ve developed practical skills that mirror real SOC and blue-team environments.
 
-### 🫆🕵️‍♂️ Threat Hunting and Security Operations
+### 🚨Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario: Tor Browser Usage Detection](https://github.com/natanael-zamfir/threat-hunt-lab-tor-browser)**
 
 ### 🛡️ Vulnerability Management Projects
 
-**[🖥️ Enterprise Vulnerability Management Program (End-to-End Lab)](https://github.com/natanael-zamfir/enterprise-vulnerability-management-program-end-to-end-lab/tree/main)**
+- **[🖥️ Enterprise Vulnerability Management Program (End-to-End Lab)](https://github.com/natanael-zamfir/enterprise-vulnerability-management-program-end-to-end-lab/tree/main)**
 > In this project, I simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
-**[STIG Implementations: Windows 11 v2r5 + MITRE ATT&CK Mapping](http://github.com/natanael-zamfir/stigs-windows-11-implementation)**
+- **[STIG Implementations: Windows 11 v2r5 + MITRE ATT&CK Mapping](http://github.com/natanael-zamfir/stigs-windows-11-implementation)**
 
 ---
 
