@@ -1,8 +1,8 @@
-# Natanael Zamfir: Cybersecurity Project Portfolio 🛡️
+# ⚡️ Natanael Zamfir: Cybersecurity Project Portfolio 🛡️
 
 I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping attacks, fighting cybercrime, and protecting digital identities. Through hands-on projects in threat detection, incident investigation, and security monitoring, I’ve developed practical skills that mirror real SOC and blue-team environments.
 
-### 🕵️ Threat Hunting and Security Operations
+### 🫆🕵️‍♂️ Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario: Tor Browser Usage Detection](https://github.com/natanael-zamfir/threat-hunt-lab-tor-browser)**
 
