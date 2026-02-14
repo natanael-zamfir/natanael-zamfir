@@ -5,22 +5,16 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 ### 🚨Threat Hunting and Security Operations
 
 - **[🚨Threat Hunting Competition: Azuki Dead in The Water 🌊](https://github.com/natanael-zamfir/threat-hunt-azuki-d-in-the-water)**
-> In this threat hunt competition, I conducted an end-to-end threat hunt and incident response investigation, reconstructing a real world ransomware attack by analysing endpoint telemetry to identify initial access, lateral movement, recovery destruction, persistence, anti-forensics activity, and final impact.
+> In this threat hunt competition, I conducted an end-to-end threat hunt and incident response investigation, reconstructing a ransomware attack through endpoint telemetry analysis.
 
 - **[Threat Hunting Scenario: Tor Browser Usage Detection](https://github.com/natanael-zamfir/threat-hunt-lab-tor-browser)**
-> In this threat hunt scenario, employees at a fictional company were suspected of using the TOR browser to conduct unauthorised or potentially illegal activities. I conducted a threat hunt to identify the responsible employee, the device used, and verified evidence confirming TOR browser installation and active usage.
-
-
-
+> In this threat hunt scenario, I performed a threat hunt to identify unauthorised TOR browser usage, attributing activity to a specific user and device using endpoint and network evidence.
+ 
 ### 🛡️ Vulnerability Management Projects
 
 - **[🖥️ Enterprise Vulnerability Management Program (End-to-End Lab)](https://github.com/natanael-zamfir/enterprise-vulnerability-management-program-end-to-end-lab/tree/main)**
 > In this project, I simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
 - **[STIG Implementations: Windows 11 v2r5 + MITRE ATT&CK Mapping](http://github.com/natanael-zamfir/stigs-windows-11-implementation)**
-
----
-
-
 > ### 🔍 Windows 11 STIG Implementations – Detailed Documentation 
 > **MITRE ATT&CK–mapped, hands-on hardening controls**
 >  
@@ -35,44 +29,50 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 > <img width="1832" height="728" alt="image" src="https://github.com/user-attachments/assets/4a63bceb-f1eb-4e2c-9a1b-d0e4310beab9" />
 
 ---
-### ☁️ Cloud
+<h2>🧰 Tools:</h2>
+
+### Cloud Platform
 <div>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
-### 📊 SIEM
+### SIEM & Detection
 <div>
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-5E5ADB?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-### 🛡️ EDR / XDR
+### Endpoint Detection & Response (EDR)
 <div>
-  <img src="https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=microsoftdefender&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-### 🔎 Vulnerability Management
+### Vulnerability Management
 <div>
-  <img src="https://img.shields.io/badge/Tenable-00BFA5?style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=tenable&logoColor=white" />
 </div>
 
-### 🔍 Query Language
+### Threat Hunting & Querying
 <div>
-  <img src="https://img.shields.io/badge/KQL-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL_(Kusto_Query_Language)-005571?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-### ⚙️ Scripting
+### Scripting & Automation
 <div>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
-### 🐍 Programming
+### Data Analysis & Reporting
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
 
-### 📈 Data Analysis
+### Security Concepts
 <div>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Threat_Hunting-6A1B9A?&style=for-the-badge&logo=datadog&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Incident_Response-AE0000?&style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF6F00?&style=for-the-badge&logo=mitre&logoColor=white" />
 </div>
 
 
