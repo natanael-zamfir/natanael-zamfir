@@ -4,7 +4,13 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 
 ### 🚨Threat Hunting and Security Operations
 
+- **[🚨Threat Hunting Competition: Azuki Dead in The Water 🌊](https://github.com/natanael-zamfir/threat-hunt-azuki-d-in-the-water)**
+> In this threat hunt competition, I conducted an end-to-end threat hunt and incident response investigation, reconstructing a real world ransomware attack by analysing endpoint telemetry to identify initial access, lateral movement, recovery destruction, persistence, anti-forensics activity, and final impact.
+
 - **[Threat Hunting Scenario: Tor Browser Usage Detection](https://github.com/natanael-zamfir/threat-hunt-lab-tor-browser)**
+> In this threat hunt scenario, employees at a fictional company were suspected of using the TOR browser to conduct unauthorised or potentially illegal activities. I conducted a threat hunt to identify the responsible employee, the device used, and verified evidence confirming TOR browser installation and active usage.
+
+
 
 ### 🛡️ Vulnerability Management Projects
 
