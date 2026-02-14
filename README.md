@@ -36,13 +36,9 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
-### SIEM & Detection
+### SIEM, Detection & EDR
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
-
-### Endpoint Detection & Response (EDR)
-<div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
