@@ -2,7 +2,6 @@
 
 I am an aspiring Cybersecurity Engineer focused on threat detection, incident response, cybercrime disruption, and protecting digital identities. Through hands-on projects in threat detection, incident investigation, and security monitoring, I’ve developed practical skills that mirror real SOC and blue-team environments.
 
-> [!NOTE]
 > **Key Skills:** Threat Hunting | Incident Response | SIEM Monitoring | EDR Investigation | KQL | MITRE ATT&CK | Vulnerability Management
 
 ### 🚨Threat Hunting and Security Operations
