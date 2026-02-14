@@ -34,4 +34,48 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 > Generates full PowerShell session transcripts for forensic analysis, complementing Script Block Logging.
 > <img width="1832" height="728" alt="image" src="https://github.com/user-attachments/assets/4a63bceb-f1eb-4e2c-9a1b-d0e4310beab9" />
 
+---
+### ☁️ Cloud
+<div>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
+
+### 📊 SIEM
+<div>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-5E5ADB?style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
+### 🛡️ EDR / XDR
+<div>
+  <img src="https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=microsoftdefender&logoColor=white" />
+</div>
+
+### 🔎 Vulnerability Management
+<div>
+  <img src="https://img.shields.io/badge/Tenable-00BFA5?style=for-the-badge&logo=tenable&logoColor=white" />
+</div>
+
+### 🔍 Query Language
+<div>
+  <img src="https://img.shields.io/badge/KQL-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
+### ⚙️ Scripting
+<div>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
+### 🐍 Programming
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+### 📈 Data Analysis
+<div>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</div>
+
+
+
+
 
