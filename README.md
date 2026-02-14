@@ -15,8 +15,11 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 - **[🖥️ Enterprise Vulnerability Management Program (End-to-End Lab)](https://github.com/natanael-zamfir/enterprise-vulnerability-management-program-end-to-end-lab/tree/main)**
 > In this project, I simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
 - **[STIG Implementations: Windows 11 v2r5 + MITRE ATT&CK Mapping](http://github.com/natanael-zamfir/stigs-windows-11-implementation)**
-> ### 🔍 Windows 11 STIG Implementations – Detailed Documentation 
-> **MITRE ATT&CK–mapped, hands-on hardening controls**
+
+<details>
+<summary>🔍 Windows 11 STIG Implementations – Detailed Documentation</summary>
+
+ > **MITRE ATT&CK–mapped, hands-on hardening controls**
 >  
 > 🛡️ **[WN11-CC-000155 – Solicited Remote Assistance must not be allowed](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000155%20%E2%80%93%20Solicited%20Remote%20Assistance%20must%20not%20be%20allowed.md)**  
 > Disables Solicited Remote Assistance to reduce social-engineering attacks where victims grant remote access.
@@ -27,6 +30,8 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 > 🛡️ **[WN11-CC-000327 – PowerShell Transcription must be enabled on Windows 11](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000327%20%E2%80%93%20PowerShell%20Transcription%20must%20be%20enabled%20on%20Windows%2011.md)**  
 > Generates full PowerShell session transcripts for forensic analysis, complementing Script Block Logging.
 > <img width="1832" height="728" alt="image" src="https://github.com/user-attachments/assets/4a63bceb-f1eb-4e2c-9a1b-d0e4310beab9" />
+
+</details>
 
 ---
 <h2>🧰 Tools:</h2>
@@ -56,12 +61,6 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
-</div>
-
-### Data Analysis & Reporting
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
 
 ### Security Concepts
@@ -71,6 +70,11 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
     <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF6F00?&style=for-the-badge&logo=mitre&logoColor=white" />
 </div>
 
+### Data Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Apps_Script-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
 
 
 
