@@ -1,14 +1,17 @@
 # ⚡️ Natanael Zamfir: Cybersecurity Project Portfolio 🛡️
 
-I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping attacks, fighting cybercrime, and protecting digital identities. Through hands-on projects in threat detection, incident investigation, and security monitoring, I’ve developed practical skills that mirror real SOC and blue-team environments.
+I am an aspiring Cybersecurity Engineer focused on threat detection, incident response, cybercrime disruption, and protecting digital identities. Through hands-on projects in threat detection, incident investigation, and security monitoring, I’ve developed practical skills that mirror real SOC and blue-team environments.
+
+> [!NOTE]
+> **Key Skills:** Threat Hunting | Incident Response | SIEM Monitoring | EDR Investigation | KQL | MITRE ATT&CK | Vulnerability Management
 
 ### 🚨Threat Hunting and Security Operations
 
 - **[🚨Threat Hunting Competition: Azuki Dead in The Water 🌊](https://github.com/natanael-zamfir/threat-hunt-azuki-d-in-the-water)**
-> In this threat hunt competition, I conducted an end-to-end threat hunt and incident response investigation, reconstructing a ransomware attack through endpoint telemetry analysis.
+> In this threat hunt competition, I conducted an end-to-end threat hunt and incident response investigation, reconstructing a ransomware attack through endpoint telemetry analysis and incident investigation.
 
 - **[Threat Hunting Scenario: Tor Browser Usage Detection](https://github.com/natanael-zamfir/threat-hunt-lab-tor-browser)**
-> In this threat hunt scenario, I performed a threat hunt to identify unauthorised TOR browser usage, attributing activity to a specific user and device using endpoint and network evidence.
+> In this threat hunt scenario, I performed a threat hunt to identify unauthorised TOR browser usage, attributing activity to a specific user and device through endpoint and network evidence.
  
 ### 🛡️ Vulnerability Management Projects
 
@@ -19,7 +22,7 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 <details>
 <summary>🔍 Windows 11 STIG Implementations – Detailed Documentation</summary>
 
-> **MITRE ATT&CK mapped**
+> **Mapped to MITRE ATT&CK techniques**
 >  
 > 🛡️ **[WN11-CC-000155 – Solicited Remote Assistance must not be allowed](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000155%20%E2%80%93%20Solicited%20Remote%20Assistance%20must%20not%20be%20allowed.md)**  
 > Disables Solicited Remote Assistance to reduce social-engineering attacks where victims grant remote access.
@@ -34,7 +37,7 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 </details>
 
 ---
-<h2>🧰 Tools:</h2>
+<h2>🧰 Technologies & Tools</h2>
 
 ### Cloud Platform
 <div>
