@@ -14,12 +14,12 @@ I’m an aspiring Cybersecurity Engineer focused on detecting threats, stopping 
 
 - **[🖥️ Enterprise Vulnerability Management Program (End-to-End Lab)](https://github.com/natanael-zamfir/enterprise-vulnerability-management-program-end-to-end-lab/tree/main)**
 > In this project, I simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
-- **[STIGs Implementations: Windows 11 v2r5 + MITRE ATT&CK Mapping](http://github.com/natanael-zamfir/stigs-windows-11-implementation)**
+- **[STIG Implementations: Windows 11 v2r5 + MITRE ATT&CK Mapping](http://github.com/natanael-zamfir/stigs-windows-11-implementation)**
 
 <details>
-<summary>🔍 Windows 11 STIGs Implementations – Detailed Documentation</summary>
+<summary>🔍 Windows 11 STIG Implementations – Detailed Documentation</summary>
 
-> **MITRE ATT&CK–mapped, hands-on hardening controls**
+> **MITRE ATT&CK mapped**
 >  
 > 🛡️ **[WN11-CC-000155 – Solicited Remote Assistance must not be allowed](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000155%20%E2%80%93%20Solicited%20Remote%20Assistance%20must%20not%20be%20allowed.md)**  
 > Disables Solicited Remote Assistance to reduce social-engineering attacks where victims grant remote access.
