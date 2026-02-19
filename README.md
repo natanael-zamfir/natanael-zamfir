@@ -16,24 +16,45 @@ I’m an aspiring Cybersecurity Engineer with a strong interest in cyber defence
 
 - **[🖥️ Enterprise Vulnerability Management Program (End-to-End Lab)](https://github.com/natanael-zamfir/enterprise-vulnerability-management-program-end-to-end-lab/tree/main)**
 > In this project, I simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
-- **[STIG Implementations: Windows 11 v2r5 + MITRE ATT&CK Mapping](http://github.com/natanael-zamfir/stigs-windows-11-implementation)**
+- **[🖥️ Windows 11 STIG Hardening Implementations 🔐(v2r5) + MITRE ATT&CK Mapping](http://github.com/natanael-zamfir/stigs-windows-11-implementation)**
 
 <details>
-<summary>🔍 Windows 11 STIG Implementations – Detailed Documentation</summary>
+<summary>🖥️ View Windows 11 STIG Hardening Implementations 🔐</summary>
 
-> **Mapped to MITRE ATT&CK techniques**
->  
-> 🛡️ **[WN11-CC-000155 – Solicited Remote Assistance must not be allowed](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000155%20%E2%80%93%20Solicited%20Remote%20Assistance%20must%20not%20be%20allowed.md)**  
-> Disables Solicited Remote Assistance to reduce social-engineering attacks where victims grant remote access.
->  
+> 🛡️ **[WN11-CC-000070 – Virtualization-based Security must be enabled](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000070%20%E2%80%93%20Virtualization-based%20Security%20must%20be%20enabled.md)**  
+> I enabled virtualization-based security to isolate sensitive system components from memory and kernel attacks.
+>
+> 🛡️ **[WN11-CC-000075 – Credential Guard must be running (Domain-joined systems)](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000075.md)**  
+> I configured Credential Guard policies to protect login credentials in isolated memory (not applicable on this standalone system).
+>
 > 🛡️ **[WN11-CC-000326 – PowerShell Script Block Logging must be enabled](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000326%20%E2%80%93%20PowerShell%20Script%20Block%20Logging%20must%20be%20enabled.md)**  
-> Enables deep visibility into PowerShell execution for detection and SIEM investigation.
->  
+> I enabled script block logging so PowerShell commands and scripts executed on the system are fully recorded for investigation.
+>
 > 🛡️ **[WN11-CC-000327 – PowerShell Transcription must be enabled on Windows 11](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000327%20%E2%80%93%20PowerShell%20Transcription%20must%20be%20enabled%20on%20Windows%2011.md)**  
-> Generates full PowerShell session transcripts for forensic analysis, complementing Script Block Logging.
+> I enabled PowerShell transcription to create readable session logs that help reconstruct attacker activity.
+>
+> 🛡️ **[WN11-CC-000066 – Command line data must be included in process creation events](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000066%20%E2%80%93%20Command%20line%20data%20must%20be%20included%20in%20process%20creation%20events.md)**  
+> I configured Windows to log full command-line arguments so executed processes can be clearly investigated.
+>
+> 🛡️ **[WN11-AU-000030 – Audit Security Group Management must be enabled (Success)](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-AU-000030%20%E2%80%93%20Audit%20Security%20Group%20Management%20must%20be%20enabled.md)**  
+> I enabled auditing of security group changes so privilege and permission modifications are tracked.
+>
+> 🛡️ **[WN11-SO-000205 – LanMan authentication level must be NTLMv2 only](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-SO-000205%20%E2%80%93%20LanMan%20authentication%20level%20must%20be%20NTLMv2%20only.md)**  
+> I enforced NTLMv2-only authentication to block weak legacy authentication protocols.
+>
+> 🛡️ **[WN11-CC-000038 – WDigest Authentication must be disabled](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000038%20%E2%80%93%20WDigest%20Authentication%20must%20be%20disabled.md)**  
+> I disabled WDigest so passwords are not stored in memory where attackers could extract them.
+>
+> 🛡️ **[WN11-CC-000210 – Microsoft Defender SmartScreen for Explorer must be enabled](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000210%20%E2%80%93%20The%20Microsoft%20Defender%20SmartScreen%20for%20Explorer%20must%20be%20enabled.md)**  
+> I enabled SmartScreen to block or warn against running suspicious downloaded files.
+>
+> 🛡️ **[WN11-CC-000155 – Solicited Remote Assistance must not be allowed](https://github.com/natanael-zamfir/stigs-windows-11-implementation/blob/main/WN11-CC-000155%20%E2%80%93%20Solicited%20Remote%20Assistance%20must%20not%20be%20allowed.md)**  
+> I disabled Solicited Remote Assistance to prevent users from granting remote control to attackers through scams.
+>
 > <img width="1832" height="728" alt="image" src="https://github.com/user-attachments/assets/4a63bceb-f1eb-4e2c-9a1b-d0e4310beab9" />
 
 </details>
+
 
 ---
 <h2>🧰 Technologies & Tools</h2>
