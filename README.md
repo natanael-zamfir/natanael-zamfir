@@ -9,7 +9,7 @@ I’m an aspiring Cybersecurity Engineer with a strong interest in cyber defence
 - **[🚨Threat Hunting Competition: Azuki Dead in The Water 🌊](https://github.com/natanael-zamfir/threat-hunt-azuki-d-in-the-water)**
 > In this threat hunt competition, I conducted an end-to-end threat hunt and incident response investigation, reconstructing a ransomware attack through endpoint telemetry analysis and incident investigation.
 
-- **[Threat Hunting Scenario: Tor Browser Usage Detection](https://github.com/natanael-zamfir/threat-hunt-lab-tor-browser)**
+- **[🚨Threat Hunting Scenario: Unauthorised Tor Browser Usage Detection 🧅](https://github.com/natanael-zamfir/threat-hunt-lab-tor-browser)**
 > In this threat hunt scenario, I performed a threat hunt to identify unauthorised TOR browser usage, attributing activity to a specific user and device through endpoint and network evidence.
  
 ### 🛡️ Vulnerability Management Projects
@@ -67,9 +67,24 @@ I’m an aspiring Cybersecurity Engineer with a strong interest in cyber defence
 
 ### Security Concepts
 <div>
-    <img src="https://img.shields.io/badge/-Threat_Hunting-6A1B9A?&style=for-the-badge&logo=datadog&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Incident_Response-AE0000?&style=for-the-badge&logo=security&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF6F00?&style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Threat_Hunting-6A1B9A?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Incident_Response-AE0000?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ransomware_Analysis-8B0000?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Digital_Forensics-455A64?style=for-the-badge&logo=forensic-science&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Endpoint_Detection_%26_Response-1E88E5?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MITRE_ATT%26CK_Mapping-FF6F00?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Lateral_Movement_Detection-5D4037?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Persistence_Detection-283593?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Anti--Forensics_Analysis-37474F?style=for-the-badge&logo=ghost&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Timeline_Reconstruction-2E7D32?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security_Hardening-546E7A?style=for-the-badge&logo=shield&logoColor=white" />
+</div>
+
+### Compliance & Security Standards
+<div>
+  <img src="https://img.shields.io/badge/-DISA_STIG_Implementation-2E7D32?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security_Baseline_Configuration-1565C0?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-System_Hardening_Standards-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white" />
 </div>
 
 ### Data Analysis
