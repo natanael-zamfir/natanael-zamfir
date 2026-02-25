@@ -1,6 +1,10 @@
 # ⚡️ Natanael Zamfir: Cybersecurity Project Portfolio 🛡️
 
-I’m an aspiring Cybersecurity Engineer with a strong interest in cyber defence and combating cybercrime. Through hands-on projects in threat hunting, incident investigation, and security monitoring, I’ve developed practical blue team skills using real world detection and analysis techniques.
+Cybersecurity Analyst with an engineering background and hands-on experience in threat hunting,
+incident investigation, and defensive security. Skilled in analysing endpoint telemetry using Microsoft
+Sentinel and Defender for Endpoint to investigate attacks and reconstruct attacker activity. Experienced
+in ransomware investigations, Windows security hardening (DISA STIG), and practical blue team
+operations across Windows and Linux environments.
 
 > **Key Skills:** Threat Hunting | Incident Response | SIEM Monitoring | EDR Investigation | Vulnerability Management
 
