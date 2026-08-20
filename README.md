@@ -1,6 +1,6 @@
 # ⚡️Nathan (Natanael) Zamfir: Cybersecurity Project Portfolio 🛡️
 
-Cybersecurity Analyst with an engineering background and hands-on experience in threat hunting,
+Entry-level cybersecurity professional with an engineering background and hands-on experience in threat hunting,
 incident investigation, and defensive security. Skilled in analysing endpoint telemetry using Microsoft
 Sentinel and Defender for Endpoint to investigate attacks and reconstruct attacker activity. Experienced
 in ransomware investigations, Windows security hardening (DISA STIG), and practical blue team
