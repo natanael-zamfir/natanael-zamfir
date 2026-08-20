@@ -1,4 +1,4 @@
-# ⚡️Nathan (Natanael) Zamfir: Cybersecurity Project Portfolio 🛡️
+# ⚡️Nathan (Natanael) Zamfir: Cybersecurity Portfolio 🛡️
 
 Entry-level cybersecurity professional with an engineering background and hands-on experience in threat hunting,
 incident investigation, and defensive security. Skilled in analysing endpoint telemetry using Microsoft
