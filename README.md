@@ -24,19 +24,19 @@ operations across Windows and Linux environments.
 ### 🔬 Detection Engineering, Incident Response & Offensive Security
 
 - **[🛡️ Detection Engineering & IR: SSH Brute-Force & Post-Exploitation in AWS ☁️](https://github.com/natanael-zamfir/wazuh-detection-engineering-aws-lab)**
-> A **self-built** cloud detection lab in my own AWS account (eu-west-2). I deployed a three-node Wazuh SIEM/XDR environment, brute-forced SSH with Hydra and `rockyou.txt`, and wrote custom correlation rules that escalate to *critical* only when a success follows a burst of failures from the same IP, plus File Integrity Monitoring rules that caught backdoor SSH keys, cron persistence and dropped payloads in real time.
+> In this project **I built my own cloud detection lab**, I deployed a three-node Wazuh SIEM/XDR environment in my own AWS account (eu-west-2), brute-forced SSH with Hydra and `rockyou.txt`, and engineered custom correlation rules that escalate to critical only when a successful login follows a burst of failures from the same IP, then added File Integrity Monitoring rules that caught backdoor SSH keys, cron persistence and dropped payloads in real time.
 
 - **[🛡️ SOC Incident Response: Host Triage & Data Exfiltration Investigation](https://github.com/natanael-zamfir/soc-incident-response-remediation)**
-> *(CompTIA CertMaster Labs)* A two-part blue-team exercise. I manually triaged a rogue process on a Windows workstation with the SOAR offline, then investigated, contained and verified the eradication of an active data-exfiltration channel carrying customer PII over a non-standard port.
+> In this two-part incident response exercise, I manually executed a host triage playbook on a Windows workstation with the SOAR offline, then investigated, contained and verified the eradication of an active data-exfiltration channel leaking customer PII over a non-standard port. *(CompTIA CertMaster Labs).*
 
 - **[🔬 Digital Forensics: Disk Image Analysis, File Recovery & Key Recovery](https://github.com/natanael-zamfir/digital-forensics-disk-carving)**
-> *(CompTIA CertMaster Labs)* Recovering evidence from raw disk images: finding a hidden logical partition, undeleting NTFS files with The Sleuth Kit, rebuilding a corrupted FAT16 boot sector in TestDisk to carve out files, and running the Windows EFS Data Recovery Agent lifecycle.
+> In this digital forensics investigation, I recovered evidence from raw disk images by uncovering a hidden logical partition, undeleting NTFS files with The Sleuth Kit, rebuilding a corrupted FAT16 boot sector in TestDisk to carve out lost files, and running the Windows EFS Data Recovery Agent lifecycle. *(CompTIA CertMaster Labs).*
 
 - **[🕵️‍♂️ Root Cause Analysis: Insider Threat & Credential Harvesting](https://github.com/natanael-zamfir/insider-threat-root-cause-analysis)**
-> *(CompTIA CertMaster Labs)* Correlating Wazuh alerts, Windows event logs, OPNsense firewall traffic, badge logs and a packet capture to attribute a domain controller audit-logging change to the real actor, not the admin account the SIEM alert blamed.
+> In this root cause analysis, I correlated Wazuh alerts, Windows event logs, OPNsense firewall traffic, physical badge logs and a packet capture to attribute a domain controller audit-logging change to the real actor, rather than the admin account the SIEM alert blamed. *(CompTIA CertMaster Labs).*
 
 - **[🎯 Web Application Penetration Testing & Adversary Emulation](https://github.com/natanael-zamfir/web-app-pentesting-adversary-emulation)**
-> *(CompTIA CertMaster Labs)* Working the gaining-access phase against DVWA: directory traversal, command injection, and an unrestricted file upload to a Meterpreter web shell, plus an Adversary-in-the-Middle proxy interception and a reverse shell, mapped to MITRE ATT&CK for the defensive view.
+> In this web application penetration test, I worked the gaining-access phase against DVWA using directory traversal, command injection and an unrestricted file upload to land a Meterpreter web shell, then ran an Adversary-in-the-Middle proxy interception and a reverse shell, mapping each step to MITRE ATT&CK for the defensive view. *(CompTIA CertMaster Labs).*
 
 ### 🔐 Windows 11 STIG Hardening (DISA)
 
