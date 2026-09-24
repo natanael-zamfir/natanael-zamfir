@@ -21,6 +21,10 @@ operations across Windows and Linux environments.
 - **[🖥️ Enterprise Vulnerability Management Program (End-to-End Lab)](https://github.com/natanael-zamfir/enterprise-vulnerability-management-program-end-to-end-lab/tree/main)**
 > In this project, I simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
 
+### 🪪 Identity & Access Management
+- **[🪪 Active Directory Identity Lifecycle Lab: Joiner, Leaver, Compromise](https://github.com/natanael-zamfir/active-directory-lab)**
+> In this lab I built a Windows Server 2022 domain controller in AWS and worked the three identity jobs a SOC actually sees: onboarding a new starter into role groups, offboarding a leaver without deleting the account, and containing a suspected compromised account. Every action was verified in the Security event log, including a Kerberos brute-force pattern that logs as 4771 rather than 4625.
+
 ### 🔬 Detection Engineering, Incident Response & Offensive Security
 
 - **[🛡️ Detection Engineering & IR: SSH Brute-Force & Post-Exploitation in AWS ☁️](https://github.com/natanael-zamfir/wazuh-detection-engineering-aws-lab)**
@@ -125,6 +129,7 @@ operations across Windows and Linux environments.
 
 ### Systems & Infrastructure
 <div>
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu_Linux-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows_Server_2019-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -171,6 +176,7 @@ operations across Windows and Linux environments.
 
 ### Incident Response & Investigation
 <div>
+  <img src="https://img.shields.io/badge/-Identity_%26_Access_Management-1565C0?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/-Incident_Response-AE0000?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/-Incident_Response_Playbooks-AE0000?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/-Root_Cause_Analysis-8E24AA?style=for-the-badge&logo=target&logoColor=white" />
